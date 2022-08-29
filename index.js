@@ -96,4 +96,4 @@ client.on("message", async message => {
 /////EBc
 
 
-client.login(process.env.token);
+client.login("MTAwOTkyNzM2NzI5ODQwMDI1Ng.GXXbxk.pOIGxl6b4xyxZtbUczMblbcefm7xq8u3OjKN_s");
